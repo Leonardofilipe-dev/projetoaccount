@@ -1,0 +1,19 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --experimental-modules --es-module-specifier-resolution=node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.0",
+    "inquirer": "^8.0.0"
+  }
+}
